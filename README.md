@@ -24,7 +24,7 @@ src="https://tenor.com/view/school-live-cute-hello-anime-girl-yuki-takeya-gif-14
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Raashii/ZaraMwol-Qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Ajmal342/bot-setting)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FAjmal342%2Fbot-setting.git)
     
 - - -
 </p>
