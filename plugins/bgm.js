@@ -56,14 +56,14 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
         if (match[1] == 'off') {
                 await heroku.patch(baseURI + '/config-vars', { 
                     body: { 
-                        ['STICKER_REPLY']: 'false'
+                        ['STICKER🙄']: 'false'
                     } 
                 });
                 await message.sendMessage(STK_off)
         } else if (match[1] == 'on') {
                 await heroku.patch(baseURI + '/config-vars', { 
                     body: { 
-                        ['STICKER_REPLY']: 'true'
+                        ['STICKER🙄']: 'true'
                     } 
                 });
                 await message.sendMessage(STK_on)
